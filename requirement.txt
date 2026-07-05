@@ -1,5 +1,6 @@
-openai/groq
+groq
 langchain
+langchain-groq
 streamlit
 python-dotenv
-pyPDF2
+PyPDF2
